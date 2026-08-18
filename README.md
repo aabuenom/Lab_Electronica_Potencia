@@ -1,2 +1,2 @@
 # Lab_Electronica_Potencia
- Codigos del Laboratorio de Electronica de Potencia USB
+ Códigos del Laboratorio de Electrónica de Potencia USB
