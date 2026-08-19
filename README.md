@@ -6,7 +6,7 @@
  
  1. Móvil de dos (2) ejes con servomotor
  ![Movil 2 Ejes](soporte-pan-tilt-para-servo-sg90-mg90.jpg  "Movil 2 Ejes")
- 2. Brazo Mecánico con tres ejes de libertad
+ 2. Brazo Mecánico con tres ejes de libertad con servomotores
  ![Brazo 3 ejes](Brazo.png  "Brazo 3 ejes")
  3. Inversores Monofásicos
  4. Inversores Trifásicos
