@@ -2,7 +2,7 @@
 
 En la infografía se puede ver la cinematica del sistema a controlar
 
-![Cinemática](/home/alex/Arduino/Movil2Ejes/infografia.png  "Cinemática del Brazo")
+![Cinemática](/infografia.png  "Cinemática del Brazo")
 ## Maqueta
 
 La maqueta esta compuesta por dos servo motores SG90 Controlados de tres formas diferentes:
@@ -79,8 +79,8 @@ Es igual que el anterior pero tiene una interfaz para escoger el puerto de comun
  
 En la figura se presenta la interfaz de conexion al puerto de comunicación con el arduino
 
-![Puerto de Conexón](/home/alex/Arduino/Movil2Ejes/Puerto.png  "Puerto de Conexión")
+![Puerto de Conexón](/Puerto.png  "Puerto de Conexión")
 
 En la figura se presenta la interfaz de control en python
 
-![Interfaz de Control](/home/alex/Arduino/Movil2Ejes/Interfaz.png  "Interfaz de Control")
+![Interfaz de Control](/Interfaz.png  "Interfaz de Control")
