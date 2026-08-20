@@ -2,7 +2,7 @@
 
 En la infografía se puede ver la cinematica del sistema a controlar
 
-![Cinemática](Brazo3Ejes.png  "Cinemática del Brazo")
+![Cinemática](imagenes/Brazo3Ejes.png  "Cinemática del Brazo")
 ## Maqueta
 
 La maqueta esta compuesta por cuatro (4) servo motores SG90 Controlados de tres formas diferentes:
@@ -47,7 +47,7 @@ Permite el control del brazo mediante joystick o el teclado numerico, con posibi
 ### control6.ino
 Permite el control del brazo mediante joystick, el teclado numerico o mediante control remoto
 
-![Control Remoto](control_r.jpg  "Control Remoto")
+![Control Remoto](imagenes/control_r.jpg  "Control Remoto")
 Permite la calibración del HEX de cada boton del control Remoto a utilizar, para este caso el mapeo del control es el siguiente:
 
 - Boton_1, 	0xF30CFF00
@@ -87,8 +87,8 @@ se usa en conjunto con **control6.ino** permite monitorear el movimiento desde u
  
 En la figura se presenta la interfaz de conexion al puerto de comunicación con el arduino
 
-![Puerto de Conexón](Puerto.png  "Puerto de Conexión")
+![Puerto de Conexón](imagenes/Puerto.png  "Puerto de Conexión")
 
 En la figura se presenta la interfaz de control en python
 
-![Interfaz de Control](Interfaz.png  "Interfaz de Control")
+![Interfaz de Control](imagenes/Interfaz.png  "Interfaz de Control")
