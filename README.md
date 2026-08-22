@@ -16,9 +16,20 @@
  	- Onda Cuadrada
  	- Modulación
  5. Troceadores o Chopper
- 6. Rectificador de Media Onda Controlado
+ 6. Rectificador
+ 	- Media Onda Controlado
+ 	- Monofásico con transformador de toma central
+ 	- Trifásico de Media Onda
  7. Controlador AC-AC
  	- Control de Fase
   	- Control Integral
+ 8. Cicloconvertidor de Medio Punto
  
-Estos son los códigos de programación de los arduinos para las Prácticas 5 y 6 
+Estos son los códigos de programación de los arduinos para la Práctica 6 
+
+## Guías y material de Consulta
+1. Laboratoriov2_ING
+2. Laboratoriov2_TSU
+3. Inversor_reporte_full
+4. cicloconvertidor_medio_punto
+5. servomotores_articulo
