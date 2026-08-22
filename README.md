@@ -30,6 +30,7 @@ Estos son los códigos de programación de los arduinos para la Práctica 6
 ## Guías y material de Consulta
 1. Laboratoriov2_ING
 2. Laboratoriov2_TSU
-3. Inversor_reporte_full
-4. cicloconvertidor_medio_punto
-5. servomotores_articulo
+3. ANÁLISIS Y CONTROL DE INVERSORES DE POTENCIA Integracion de Tecnicas de Modulacion, Conmutacion Digital y Etapas de Potencia
+4. Cicloconvertidor Monofásico de Medio Punto Configuración, Uso y Control
+5. Uso y Control de Servomotores: Principios,Arquitecturas de Control e Implementación con Módulo PCA9685
+6. Cálculo y Aplicación de Circuitos Snubber en Diodos, SCR y TRIACs
